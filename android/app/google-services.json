@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "678454792121",
+    "project_id": "logein-bacbc",
+    "storage_bucket": "logein-bacbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678454792121:android:10d3d219b0dee7dc6a3068",
+        "android_client_info": {
+          "package_name": "com.example.loge_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678454792121-cm1gidr4qtemdh5pohgfluc2168qmaib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTdbSuXeiTOT7us6oJt1FHkyjTzFWPLIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678454792121-cm1gidr4qtemdh5pohgfluc2168qmaib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
